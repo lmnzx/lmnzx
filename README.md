@@ -1,13 +1,13 @@
 just trying to have fun...
 
-`
+```
 　／|、
 （ﾟ､ ｡ ７　
 　|、 ~ヽ　 .　~ Meow
 　じし|_,)ノ
-`
+```
 
-programming sidequests 
+programming sidequests <br/>
 & mental gymnastics
 <!--
 **lmnzx/lmnzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
